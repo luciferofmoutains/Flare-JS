@@ -18,6 +18,7 @@
 	},
 	"homepage": "https://github.com/2d-inc/Flare-JS#readme",
 	"devDependencies": {
+		"@2dimensions/flare-js": "^1.0.0",
 		"arraybuffer-loader": "^1.0.7",
 		"babel-core": "^6.26.3",
 		"babel-eslint": "^6.1.2",
